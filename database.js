@@ -5,8 +5,8 @@ const books = [
         pubDate: "2021-08-05",
         language: "en",
         numPage: 250,
-        author: [1,2],
-        publications:[1],
+        author: 1,
+        publications:[1,2],
         category: ["tech","space","education"]
 
     }
@@ -30,6 +30,11 @@ const publication = [
         id: 1,
         name: "writex",
         books: ["12345Book"]
+    },
+    {
+        id: 2,
+        name: "writex",
+        books: []
     }
 ]
 

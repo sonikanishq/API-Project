@@ -31,3 +31,16 @@
 // To get all the publication -DONE
 // To get a specific publication
 // To get a list of publication based on the book
+
+//POST REQUEST
+//1. Add a New Book -DONE
+//2. Add a New Publication -DONE
+//3. Add A New Author -DONE
+
+/**********PUT***********/
+//Update book details if author is changed. -DONE
+
+/******DELETE*******/
+//1. Delete a book -DONE
+//2. Delete author from book
+//3. Delete author from book and vice-versa -DONE
